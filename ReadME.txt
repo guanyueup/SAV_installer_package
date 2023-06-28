@@ -10,3 +10,7 @@ command: brew install libpcap
 
 RHEL/CentOS/Fedora:
 command: dnf install libpcap or yum install libpcap
+
+finish before and then:
+chmod +x savme-linux-amd64
+./savme-linux-amd64
