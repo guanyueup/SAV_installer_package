@@ -1,6 +1,6 @@
 1.Before run sav you need install npcap first
 windows:
-installer package is in list
+The installation package is then compressed into the package
 
 Ubuntu/Debian:
 command: apt-get install libpcap0.8
@@ -15,4 +15,4 @@ finish before and then run savme:
 chmod +x savme-linux-amd64
 ./savme-linux-amd64
 
-the example of running savme, example of runing savme.txt, is in list
+the example of running script is compressed into the package.
